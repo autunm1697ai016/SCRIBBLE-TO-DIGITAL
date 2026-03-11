@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+easyocr
+pillow
+numpy
+google-genai
+python-docx
+reportlab
